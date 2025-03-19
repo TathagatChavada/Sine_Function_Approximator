@@ -1,6 +1,6 @@
 # Sine Function Approximator using Neural Network
 
-This repository contains a simple neural network implemented from scratch to approximate the sine function
+This repository contains python code for neural network which I implemented from scratch (without using scikit-learn, TensorFlow, or PyTorch) to approximate the sine function
 
 ## Overview
 
